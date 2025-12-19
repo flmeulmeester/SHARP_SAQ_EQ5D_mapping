@@ -4,4 +4,9 @@ This page contains the scripts and files for the statistical analyses of the (in
 Study population: Patients living with Severe asthma (Europe)
 
 ## Code
+
 Work in progress: this will be updated shortly.
+
+## Contact
+
+Fleur L. Meulmeester | PhD candidate Biomedical Data Sciences, Leiden University Medical Center (The Netherlands) | f.l.meulmeester@lumc.nl
